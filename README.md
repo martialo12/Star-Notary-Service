@@ -131,7 +131,7 @@ compilers: {
 1. Feel free to raise a [Pull Request](https://github.com/martialo12/Star-Notary-Service/pulls) if you find a bug/scope of improvement in the current repository. 
 
 
-##author
+##author:
 
 
 **twitter**: martialo dev [follow me](https://twitter.com/martialobug)
