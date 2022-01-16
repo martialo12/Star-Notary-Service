@@ -128,7 +128,7 @@ compilers: {
 ```
 
 ## Raise a PR or report an Issue
-1. Feel free to raise a [Pull Request](https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code/pulls) if you find a bug/scope of improvement in the current repository. 
+1. Feel free to raise a [Pull Request](https://github.com/martialo12/Star-Notary-Service/pulls) if you find a bug/scope of improvement in the current repository. 
 
 
 ##author
