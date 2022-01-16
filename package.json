@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.8"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
